@@ -13,7 +13,7 @@ class PythonBrowser(QWidget):
 
     def initUI(self):
 
-        initurl = 'https://info.cin-test.info/'
+        initurl = 'https://www.yahoo.co.jp/'
 
         self.browser = QWebEngineView()
         self.browser.load(QUrl(initurl))        
