@@ -1,5 +1,4 @@
 # python-browser-1
-最初のブラウザ
 
 開始
 ```
